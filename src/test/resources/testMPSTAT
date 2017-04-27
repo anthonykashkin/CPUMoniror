@@ -1,0 +1,11 @@
+Linux 3.8.13-98.el6uek.x86_64 (localhost.localdomain) 	04/27/2017 	_x86_64_	(2 CPU)
+
+02:27:15 PM  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest   %idle
+02:27:16 PM  all   21.21    0.00    2.53    1.01    0.00    0.00    0.00    0.00   75.25
+02:27:16 PM    0   18.56    0.00    2.06    2.06    0.00    0.00    0.00    0.00   77.32
+02:27:16 PM    1   23.23    0.00    3.03    0.00    0.00    0.00    0.00    0.00   73.74
+
+Average:     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest   %idle
+Average:     all   21.21    0.00    2.53    1.01    0.00    0.00    0.00    0.00   75.25
+Average:       0   18.56    0.00    2.06    2.06    0.00    0.00    0.00    0.00   77.32
+Average:       1   23.23    0.00    3.03    0.00    0.00    0.00    0.00    0.00   73.74
